@@ -8,7 +8,7 @@ image:
   repository: nurbolm/go-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "10212393337"
+  tag: "10213362107"
 
 ingress:
   enabled: false
