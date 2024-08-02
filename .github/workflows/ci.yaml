@@ -11,8 +11,6 @@ on:
       - 'k8s/**'
       - 'README.md'
 
-# Add stages here
-
 jobs:
 
   build:
